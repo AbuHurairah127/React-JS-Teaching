@@ -1,0 +1,10 @@
+Create a sign up form 
+take inputs 
+6 fields
+
+show real time out put on the screen but using different component
+ means form ka aik alg component 
+ or output ka alaga component
+ and both are imported in app.js
+
+THANK YOU  best of luck!
